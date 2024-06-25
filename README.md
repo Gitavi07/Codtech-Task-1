@@ -15,6 +15,12 @@
 
 
 #### Project Name: E-commerce Sales Analysis
+![Cod 1](https://github.com/Gitavi07/Codtech-Task-1/assets/173767680/c282cd8d-bd16-4382-bc9e-6ef6d01656f8)
+![Cod 3](https://github.com/Gitavi07/Codtech-Task-1/assets/173767680/56c35937-3f42-4d5a-9161-473d4bee0b6d)
+![Cod 4](https://github.com/Gitavi07/Codtech-Task-1/assets/173767680/9892f709-af53-4cf5-a013-bf702d255ea7)
+
+
+
 
 
 ### Overview
